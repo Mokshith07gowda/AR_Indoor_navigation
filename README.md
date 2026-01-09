@@ -1,7 +1,7 @@
-# Unity VR/XR Project
+# Unity AR/VR Project
 
 ## Description
-This is a Unity-based VR/XR project developed as part of a major academic project at RVITM.
+This is a Unity-based AR/VR project developed as part of a major academic project at RVITM.
 
 ## Quick Start - APK Installation
 If you just want to run the application without Unity:
@@ -85,12 +85,6 @@ A pre-built APK file is available in the repository for direct installation on A
 - Unity XR Plugin System
 - Unity Input System
 - TextMesh Pro
-
-## Contributors
-- MOKSHITH KY GOWDA
-
-## License
-[Add your license here]
 
 ## Acknowledgments
 - RVITM (RV Institute of Technology and Management)
