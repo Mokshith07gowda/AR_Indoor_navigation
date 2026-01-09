@@ -56,7 +56,7 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
+# *.apk (commented out to allow APK in repo)
 *.aab
 *.unitypackage
 *.app
